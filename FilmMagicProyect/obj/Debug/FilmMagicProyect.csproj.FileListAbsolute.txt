@@ -1,0 +1,62 @@
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\bin\Debug\FilmMagicProyect.exe.config
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\bin\Debug\FilmMagicProyect.exe
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\bin\Debug\FilmMagicProyect.pdb
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.csprojAssemblyReference.cache
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.Properties.Resources.resources
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.csproj.GenerateResource.cache
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.csproj.CoreCompileInputs.cache
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.exe
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.pdb
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.Inicio.resources
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.Login.resources
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.FDevolucion.resources
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.FPrincipal.resources
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.FRegistro.resources
+C:\Users\Styven\Desktop\Anthony\FilmMagicProyect\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.FRenta.resources
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\bin\Debug\FilmMagicProyect.exe.config
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\bin\Debug\FilmMagicProyect.exe
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\bin\Debug\FilmMagicProyect.pdb
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.csprojAssemblyReference.cache
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.FDevolucion.resources
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.FPrincipal.resources
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.FRegistro.resources
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.FRenta.resources
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.Inicio.resources
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.Login.resources
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.Properties.Resources.resources
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.csproj.GenerateResource.cache
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.exe
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.pdb
+D:\Downloads\FilmMagicProyect\FilmMagicProyect\obj\Debug\FilmMagicProyect.FPremiacion.resources
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\bin\Debug\FilmMagicProyect.exe.config
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\bin\Debug\FilmMagicProyect.exe
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\bin\Debug\FilmMagicProyect.pdb
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.csprojAssemblyReference.cache
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.FDevolucion.resources
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.FPremiacion.resources
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.FPrincipal.resources
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.FRegistro.resources
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.FRenta.resources
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.Inicio.resources
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.Login.resources
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.Properties.Resources.resources
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.csproj.GenerateResource.cache
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.csproj.CoreCompileInputs.cache
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.exe
+C:\Users\Styven\Desktop\Nueva carpeta (4)\FilmMagicProyect\obj\Debug\FilmMagicProyect.pdb
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\bin\Debug\FilmMagicProyect.exe.config
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\bin\Debug\FilmMagicProyect.exe
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\bin\Debug\FilmMagicProyect.pdb
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.csprojAssemblyReference.cache
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.FDevolucion.resources
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.FPremiacion.resources
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.FPrincipal.resources
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.FRegistro.resources
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.FRenta.resources
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.Inicio.resources
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.Login.resources
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.Properties.Resources.resources
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.csproj.GenerateResource.cache
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.csproj.CoreCompileInputs.cache
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.exe
+C:\Users\lomas\Desktop\Proyecto Grupo 1\Proyecto FilmMagic\FilmMagicProyect\obj\Debug\FilmMagicProyect.pdb
